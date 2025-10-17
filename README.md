@@ -19,3 +19,9 @@ Determine whether an integer is a palindrome.
 An integer is a palindrome when it reads the same backward as forward.
 
 #### [Solution](PalindromeNumber/PalindromeNumber/Program.cs)
+
+### LeetCode #13: Roman to Integer (Easy)
+
+Given a roman numeral, convert it to an integer.
+
+#### [Solution](RomanToInteger/RomanToInteger/Program.cs)
