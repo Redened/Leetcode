@@ -33,3 +33,15 @@ Given a roman numeral, convert it to an integer.
 Write a function to find the longest common prefix string amongst an array of strings.  
 
 #### [Solution](LongestCommonPrefix/LongestCommonPrefix/Program.cs)
+
+### LeetCode #20: Valid Parentheses (Easy)
+<hr>
+
+Given a string containing just the characters `(` `)` `{` `}` `[` `]`  
+determine if the input string is valid. 
+
+Open brackets must be closed by the same type of brackets.  
+Open brackets must be closed in the correct order.  
+Every close bracket has a corresponding open bracket of the same type.
+
+#### [Solution](ValidParentheses\ValidParentheses\Program.cs)
