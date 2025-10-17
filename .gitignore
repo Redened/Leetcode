@@ -1,0 +1,22 @@
+# Rider / JetBrains IDE project files
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper caches
+_ReSharper*/
+*.DotSettings.user
+
+# Other
+.vscode/

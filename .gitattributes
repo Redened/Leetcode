@@ -1,0 +1,30 @@
+# Set default behavior for line endings
+* text=auto
+
+# Ensure consistent line endings for C# source files
+*.cs text diff=csharp
+
+# Treat solution and project files as text
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.props text eol=crlf
+*.targets text eol=crlf
+
+# Binary files (no diff)
+*.dll binary
+*.exe binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.7z binary
+*.pdf binary
+
+# Ignore JetBrains Rider workspace files
+.idea/** linguist-vendored
+
+# Optional: normalize shell and markdown files for Unix line endings
+*.sh text eol=lf
+*.md text eol=lf
