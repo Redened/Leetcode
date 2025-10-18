@@ -10,7 +10,7 @@ return indices of the two numbers such that they add up to `target`.
 You may assume that each input would have exactly one solution,  
 and you may not use the same element twice.
 
-#### [Solution](TwoSum/TwoSum/Program.cs)
+#### [Problem](https://leetcode.com/problems/two-sum/description/) [Solution](TwoSum/TwoSum/Program.cs)
 
 <hr>
 
@@ -20,7 +20,7 @@ Determine whether an integer is a palindrome.
 
 An integer is a palindrome when it reads the same backward as forward.
 
-#### [Solution](PalindromeNumber/PalindromeNumber/Program.cs)
+#### [Problem](https://leetcode.com/problems/palindrome-number/) [Solution](PalindromeNumber/PalindromeNumber/Program.cs)
 
 <hr>
 
@@ -28,7 +28,7 @@ An integer is a palindrome when it reads the same backward as forward.
 
 Given a roman numeral, convert it to an integer.
 
-#### [Solution](RomanToInteger/RomanToInteger/Program.cs)
+#### [Problem](https://leetcode.com/problems/roman-to-integer/) [Solution](RomanToInteger/RomanToInteger/Program.cs)
 
 <hr>
 
@@ -36,7 +36,7 @@ Given a roman numeral, convert it to an integer.
 
 Write a function to find the longest common prefix string amongst an array of strings.  
 
-#### [Solution](LongestCommonPrefix/LongestCommonPrefix/Program.cs)
+#### [Problem](https://leetcode.com/problems/longest-common-prefix/) [Solution](LongestCommonPrefix/LongestCommonPrefix/Program.cs)
 
 <hr>
 
@@ -49,7 +49,7 @@ Open brackets must be closed by the same type of brackets.
 Open brackets must be closed in the correct order.  
 Every close bracket has a corresponding open bracket of the same type.
 
-#### [Solution](ValidParentheses\ValidParentheses\Program.cs)
+#### [Problem](https://leetcode.com/problems/valid-parentheses/) [Solution](ValidParentheses\ValidParentheses\Program.cs)
 
 <hr>
 
@@ -62,4 +62,4 @@ The list should be made by splicing together the nodes of the first two lists.
 
 Return the head of the merged linked list.
 
-#### [Solution](MergeTwoSortedLists\MergeTwoSortedLists\Program.cs)
+#### [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](MergeTwoSortedLists\MergeTwoSortedLists\Program.cs)
