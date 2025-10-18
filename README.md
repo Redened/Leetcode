@@ -27,6 +27,17 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 <hr>
 
+### LeetCode #4: Median of Two Sorted Arrays (Hard)
+
+Given two sorted arrays of size `m` and `n` respectively,  
+return the median of the two sorted arrays.
+
+The overall run time complexity should be `O(log (m+n))`.
+
+#### [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) [Solution](MedianOfTwoSortedArrays/MedianOfTwoSortedArrays/Program.cs)
+
+<hr>
+
 ### LeetCode #9: Palindrome Number (Easy)
 
 Determine whether an integer is a palindrome.  
