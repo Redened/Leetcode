@@ -49,7 +49,7 @@ Open brackets must be closed by the same type of brackets.
 Open brackets must be closed in the correct order.  
 Every close bracket has a corresponding open bracket of the same type.
 
-#### [Problem](https://leetcode.com/problems/valid-parentheses/) [Solution](ValidParentheses\ValidParentheses\Program.cs)
+#### [Problem](https://leetcode.com/problems/valid-parentheses/) [Solution](ValidParentheses/ValidParentheses/Program.cs)
 
 <hr>
 
@@ -62,4 +62,4 @@ The list should be made by splicing together the nodes of the first two lists.
 
 Return the head of the merged linked list.
 
-#### [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](MergeTwoSortedLists\MergeTwoSortedLists\Program.cs)
+#### [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](MergeTwoSortedLists/MergeTwoSortedLists/Program.cs)
