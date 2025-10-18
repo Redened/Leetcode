@@ -1,7 +1,8 @@
 # Leetcode
 
-### LeetCode #1: Two Sum (Easy)
 <hr>
+
+### LeetCode #1: Two Sum (Easy)
 
 Given an array of integers `nums` and an integer `target`,    
 return indices of the two numbers such that they add up to `target`.
@@ -11,8 +12,9 @@ and you may not use the same element twice.
 
 #### [Solution](TwoSum/TwoSum/Program.cs)
 
-### LeetCode #9: Palindrome Number (Easy)
 <hr>
+
+### LeetCode #9: Palindrome Number (Easy)
 
 Determine whether an integer is a palindrome.  
 
@@ -20,22 +22,25 @@ An integer is a palindrome when it reads the same backward as forward.
 
 #### [Solution](PalindromeNumber/PalindromeNumber/Program.cs)
 
-### LeetCode #13: Roman to Integer (Easy)
 <hr>
+
+### LeetCode #13: Roman to Integer (Easy)
 
 Given a roman numeral, convert it to an integer.
 
 #### [Solution](RomanToInteger/RomanToInteger/Program.cs)
 
-### LeetCode #14: Longest Common Prefix (Easy)
 <hr>
+
+### LeetCode #14: Longest Common Prefix (Easy)
 
 Write a function to find the longest common prefix string amongst an array of strings.  
 
 #### [Solution](LongestCommonPrefix/LongestCommonPrefix/Program.cs)
 
-### LeetCode #20: Valid Parentheses (Easy)
 <hr>
+
+### LeetCode #20: Valid Parentheses (Easy)
 
 Given a string containing just the characters `(` `)` `{` `}` `[` `]`  
 determine if the input string is valid. 
@@ -46,8 +51,9 @@ Every close bracket has a corresponding open bracket of the same type.
 
 #### [Solution](ValidParentheses\ValidParentheses\Program.cs)
 
-### LeetCode #21: Merge Two Sorted Lists (Easy)
 <hr>
+
+### LeetCode #21: Merge Two Sorted Lists (Easy)
 
 You are given the heads of two sorted linked lists.
 
